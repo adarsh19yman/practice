@@ -7,5 +7,6 @@ hello another probability starts
 # jab prob m bhi line m code hoga 
 tab pull request m dikkat dega resolve krna padega
 
-
+# you have to create a pull request 
+and then there is merge
 
