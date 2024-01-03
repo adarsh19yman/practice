@@ -10,3 +10,6 @@ tab pull request m dikkat dega resolve krna padega
 # you have to create a pull request 
 and then there is merge
 
+# this is from adarsh19yman
+will you add me
+
